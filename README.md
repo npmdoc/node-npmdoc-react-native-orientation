@@ -1,6 +1,6 @@
 # npmdoc-react-native-orientation
 
-#### api documentation for  [react-native-orientation (v1.17.0)](https://github.com/yamill/react-native-orientation#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-orientation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-orientation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-orientation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-orientation)
+#### basic api documentation for  [react-native-orientation (v1.17.0)](https://github.com/yamill/react-native-orientation#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-orientation.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-orientation) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-orientation.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-orientation)
 
 #### Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis
 
@@ -72,7 +72,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.17.0"
+    "version": "1.17.0",
+    "bin": {}
 }
 ```
 
